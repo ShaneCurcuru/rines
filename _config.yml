@@ -3,7 +3,7 @@ title: Rines ArborWorks
 subtitle: David Rines
 email: david@rinesarborworks.com
 description: A test website for a tree service.
-baseurl: "/rinesarborworks" # the subpath of your site, e.g. /blog
+baseurl: "/rines" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: David Rines
 maintainer: Shane Curcuru
