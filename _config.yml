@@ -1,0 +1,37 @@
+# site settings
+title: Rines ArborWorks
+subtitle: David Rines
+email: david@rinesarborworks.com
+description: A test website for a tree service.
+baseurl: "/rinesarborworks" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author: David Rines
+maintainer: Shane Curcuru
+street_address: 
+city: Arlington
+state: MA
+zip_code: 02476
+country: United States of America
+phone: 781-820-9363
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/ShaneCurcuru/
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
